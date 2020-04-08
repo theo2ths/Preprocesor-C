@@ -1,7 +1,4 @@
-----TEMA1 SO----
-Nume: Stoica
-Prenume: Theodor Nicolae
-Grupa: 334CB
+
 
 -----Solutie-----
 Solutia aleasa presupune implementarea unui hashtable
@@ -79,19 +76,7 @@ folosind o stiva pentru a tine evidenta if-urilor imbricate si pentru a sti
 in ce "state" ma aflu.De asemenea, as fi putut sa folosesc macro-ul DIE,
 intrucat ar fi fost mai elegant sa afisez si un mesaj de eroare in cazul in
 care alocarea dinamica sau deschiderea unui fisier esueaza.Am folosit direct
-exit(12).
-
-Dificultati:
-Am modificat in checker numarul de rulari (in loc de 1000, 1) si trecea (initial
-ma gandeam ca e seg-fault din cauza implementarii ). Apoi am luat si am tratat pas cu pas
-fiecare eroare(si surpriza a trecut cand am pus 1000 la loc).
-Enuntul a fost destul de neclar(dovada fiind si numarul intrebarilor adresate pe forum),
-insa consider aceasta parte ca fiind si o responsabilitate a noastra de a cauta mai mult.
-
-
------Neimplementat
-
-Nu am implementat testul "multi-lines" (not worthed).
+exit(12).ed).
 
 ----- Compilare
 
